@@ -1,1 +1,1 @@
-# NewsPortalWebsite
+# genai-hackathon-travel-itinerary-planner
