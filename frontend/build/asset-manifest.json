@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.661b80c0.css",
+    "main.js": "/static/js/main.c0cf9e67.js",
+    "static/media/khabribaba-logo.png": "/static/media/khabribaba-logo.d3234e3507a2ce810294.png",
+    "index.html": "/index.html",
+    "main.661b80c0.css.map": "/static/css/main.661b80c0.css.map",
+    "main.c0cf9e67.js.map": "/static/js/main.c0cf9e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661b80c0.css",
+    "static/js/main.c0cf9e67.js"
+  ]
+}
