@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 duckduckgo-search
-crewai
-openai
+# crewai
+# openai
 python-dotenv
