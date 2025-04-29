@@ -12,8 +12,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./frontend/src/assets/khabribaba-logo.png" alt="Homepage Screenshot" width="700"/>
-  <!-- Add more screenshots as needed -->
+  <img src="/frontend/src/assets/khabribaba-logo.png" alt="Homepage Screenshot" width="300"/>
 </p>
 
 
