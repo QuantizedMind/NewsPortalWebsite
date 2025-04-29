@@ -37,7 +37,7 @@ function AppContent() {
     const fetchCategory = (cat) => {
       if (cat === "All") return Promise.resolve([]);
       const backendQuery = categoryQueryMap[cat] || cat;
-      return fetch(`https://news-portal-website-g20lighdp-roshans-projects-e353dd8d.vercel.app/api/news?q=${encodeURIComponent(backendQuery)}&limit=9`)
+      return fetch(`https://news-portal-website-g20lighdp-roshans-projects-e353dd8d.vercel.app/api/news?q=${encodeURIComponent(backendQuery)}&limit=5`)
         .then(res => res.json())
         .then(data => {
           if (!data.articles || !Array.isArray(data.articles)) return [];
