@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="/frontend/src/assets/khabribaba-logo.png" alt="Homepage Screenshot" width="300"/>
-  <!-- Add more screenshots as needed -->
 </p>
 
 
