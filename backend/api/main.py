@@ -24,7 +24,11 @@ from fastapi.responses import JSONResponse
 # Allow frontend dev server (localhost:3000) to access API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    # allow_origins =["*"],
+    allow_origins=[
+        "http://localhost:3000",
+        "https://news-portal-website-g20lighdp-roshans-projects-e353dd8d.vercel.app"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
